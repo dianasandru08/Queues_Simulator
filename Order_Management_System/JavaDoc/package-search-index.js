@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"BLC"},{"l":"bll"},{"l":"bll.validatori"},{"l":"connection"},{"l":"dao"},{"l":"model"},{"l":"presentation"},{"l":"start"}]

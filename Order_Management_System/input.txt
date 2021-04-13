@@ -1,0 +1,21 @@
+Insert client: Ion Popescu, Bucuresti
+Insert client: Luca George, Bucuresti
+Report client
+Insert client: Sandu Vasile, Cluj-Napoca
+Report client
+Delete client: Ion Popescu, Bucuresti
+Report client
+Insert product: mar, 20, 1
+Insert product: piersica, 50, 2
+Insert product: mar, 20, 1
+Report product
+Delete Product: piersica
+Insert product: portocala, 40, 1.5
+Insert product: lamaie, 70, 2
+Report product
+Order: Luca George, mar, 5
+Order: Luca George, lamaie, 5
+Order: Sandu Vasile, mar, 100
+Report client
+Report order
+Report product
